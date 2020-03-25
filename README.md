@@ -9,6 +9,7 @@ C++ console game
 ## Created for final project in CS162 at Oregon State University
 - Object Oriented Programming
 - Polymorphism and inheritence 
+- Map is 2D linked-list data structure
 
 ## Game features
 - 80x24 character design for old-school feels
