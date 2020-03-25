@@ -1,6 +1,8 @@
 # WarpJockey
 C++ console game
 
+<img src='WarpJockey1.png'>
+
 ### Use included makefile for linux (executable is `FinalProject`)
 ### Or open and run in Visual Studio
 
