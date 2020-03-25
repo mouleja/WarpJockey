@@ -77,5 +77,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="makefile" />
+    <None Include="x64\Release\WarpJockey.exe" />
   </ItemGroup>
 </Project>
